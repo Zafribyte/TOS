@@ -1,6 +1,6 @@
 /*Tablet Layout: 768px.*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-.center{width:730px; padding:10px}
+.center{width:830px; padding:10px}
 #selectnav1{display:none}
 #selectnav2{display:none}
 #nav{display:block}
